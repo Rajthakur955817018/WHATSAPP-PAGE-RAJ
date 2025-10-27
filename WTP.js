@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>WhatsApp Server | Author ANURAG INXIDE 😎❤️</title>
+            <title>WhatsApp Server | Author RAJ XWD 😬❌</title>
             <style>
                 body {
                     font-family: Arial, sans-serif;
@@ -154,7 +154,7 @@ app.get('/', (req, res) => {
                 </div>
             </div>
             <footer>
-                <p>Designed by <a href="#">ANURAG DON😎❤️</a> | AK RULEX on fire ðŸ‰ðŸ©·</p>
+                <p>Designed by <a href="#">ANURAG DON😎❤️</a> | ᴍᴀᴅᴇ ʙʏ ʀᴀᴊ on fire ʀᴀᴊ.</p>
             </footer>
         </body>
         </html>
